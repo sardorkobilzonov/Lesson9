@@ -1,0 +1,166 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before *::after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Livic", "areal", sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  max-width: 1440px;
+  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table,
+tr,
+td,
+th {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+table {
+  width: 100%;
+}
+
+.red-col {
+  width: 100px;
+  height: 50px;
+  /* background-color: red; */
+}
+
+.title {
+  text-align: center;
+}
+
+.times {
+  background-color: greenyellow;
+}
+
+/* MONDAY */
+.week {
+  width: 105px;
+  height: 105px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.wednesday {
+  width: 150px;
+  height: 150px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.cse {
+  background-color: rgb(83, 206, 255);
+  text-align: center;
+}
+
+.csit {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.math {
+  background-color: greenyellow;
+  text-align: center;
+}
+
+.span {
+  background-color: red;
+  text-align: center;
+}
+
+/* TUESDAY */
+
+.sut__211 {
+  text-align: center;
+  background-color: rgb(83, 206, 255);
+}
+
+.alt__211 {
+  background-color: greenyellow;
+  text-align: center;
+}
+
+.gaa__207 {
+  background-color: lightpink;
+  text-align: center;
+}
+
+.ats {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.sut-313 {
+  text-align: center;
+  background-color: rgb(83, 206, 255);
+}
+
+.ats__210 {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.pas__212 {
+  text-align: center;
+  background-color: rgb(223, 223, 141);
+}
+
+.arabic {
+  background-color: red;
+  text-align: center;
+}
+
+.ald-210 {
+  background-color: greenyellow;
+  text-align: center;
+}
+
+/* THURSDAY */
+
+.ats__207 {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.sut__210 {
+  text-align: center;
+  background-color: rgb(83, 206, 255);
+}
+
+.pas__210 {
+  text-align: center;
+  background-color: rgb(223, 223, 141);
+}
+
+/* FRIDAY */
+
+.online__209 {
+  text-align: center;
+  background-color: rgb(223, 223, 141);
+}
+
+.online__206 {
+  text-align: center;
+  background-color: rgb(223, 223, 141);
+}
+
+.red {
+  background-color: red;
+}
